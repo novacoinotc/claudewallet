@@ -1,0 +1,28 @@
+{
+  "name": "tron-gasfree-wallet",
+  "version": "1.0.0",
+  "description": "TRON Gas-Free Wallet - Sistema no custodial con fee delegation",
+  "scripts": {
+    "install:all": "cd backend && npm install && cd ../frontend && npm install",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build",
+    "start:backend": "cd backend && npm start"
+  },
+  "keywords": [
+    "tron",
+    "wallet",
+    "gas-free",
+    "fee-delegation",
+    "usdt",
+    "trc20",
+    "crypto",
+    "blockchain"
+  ],
+  "author": "Claude AI",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/novacoinotc/claudewallet.git"
+  }
+}
